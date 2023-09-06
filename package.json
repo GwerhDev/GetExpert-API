@@ -36,6 +36,7 @@
     "passport-linkedin-oauth2": "^2.0.0"
   },
   "devDependencies": {
+    "@flydotio/dockerfile": "^0.4.8",
     "chai": "^4.2.0",
     "mocha": "^8.2.1",
     "nodemon": "^2.0.6",
